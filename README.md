@@ -1,3 +1,5 @@
+# SQL Case Study - ClickBait
+
 -- 1. How many users are there?
 select count(DISTINCT user_id) as total_users from users;
 
